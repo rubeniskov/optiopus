@@ -15,11 +15,10 @@ describe('Optiopus', function() {
                 'color': ['rgba', 0, 0, 0, 1]
             }
         };
-        //def = valtree(json);
     });
 
     it('should get the new value of the property keeping default structure', function() {
-      
+
       var defs = optiopus(defaults),
           opts = defs.options({
               'color': '#FF0000'
