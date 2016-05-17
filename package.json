@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "nutol": "^0.1.2",
-    "valtree": "0.0.3"
+    "optree": "^0.1.0",
+    "valtree": "^0.1.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
