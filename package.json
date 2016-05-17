@@ -1,6 +1,6 @@
 {
   "name": "optiopus",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Optiopus is a a function thats provides a configurable object with default values.",
   "main": "index.js",
   "engines": {
