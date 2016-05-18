@@ -12,7 +12,7 @@
   "dependencies": {
     "nutol": "^0.1.2",
     "optree": "^0.1.0",
-    "valtree": "^0.1.2"
+    "valtree": "^0.1.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
