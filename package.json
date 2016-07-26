@@ -4,7 +4,7 @@
   "description": "Optiopus is a a function thats provides a configurable object with default values.",
   "main": "index.js",
   "publishConfig": {
-    "registry": "http://npm.globalmest.net/"
+    "registry": "http://registry.npmjs.org/"
   },
   "engines": {
     "node": ">=0.12"
